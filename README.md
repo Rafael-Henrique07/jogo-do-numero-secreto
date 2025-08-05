@@ -19,9 +19,11 @@
 <h2>🎮 Como Jogar</h2>
 <p>
 
-**1 - Clone este repositório para o seu ambiente local:**
+**1 - Clone este repositório para o seu ambiente local (ou clique no link da vercel):**
 
 git clone https://github.com/Rafael-Henrique07/jogo-do-numero-secreto.git
+
+https://jogo-do-numero-secreto-js-omega.vercel.app/
 
 
 **2 - Abra o arquivo index.html em seu navegador de internet.**
